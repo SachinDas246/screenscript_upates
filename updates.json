@@ -1,5 +1,12 @@
 [
     {
+        "emoji": "🎥",
+        "title": "New YouTube Tutorial",
+        "description": "Learn how to create stunning Screen Script videos step-by-step. Watch the full tutorial on YouTube.",
+        "date": "2026-04-08",
+        "url": "https://youtu.be/k-AszEon1Nk"
+    },
+    {
         "emoji": "🧱",
         "title": "Layouts",
         "description": "Now create more creative videos, with layouts",
